@@ -1,0 +1,2 @@
+# CoffeeShop
+Static Website
